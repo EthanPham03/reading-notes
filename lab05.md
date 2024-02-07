@@ -12,3 +12,6 @@ https://linuxcommand.org/lc3_lts0010.php
 Absolute Path vs. Relative Path Explained, https://phoenixnap.com/kb/absolute-path-vs-relative-path#:~:text=There%20are%20two%20types%20of,to%20the%20current%20working%20directory.
 command-line interface (CLI), https://www.techtarget.com/searchwindowsserver/definition/command-line-interface-CLI
 Command Prompt: What It Is and How to Use It, https://www.lifewire.com/command-prompt-2625840 
+
+## Things I want to know about:
+n/a
