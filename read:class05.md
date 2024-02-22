@@ -1,4 +1,4 @@
-# Author
+# Author: Ethan Pham
 ## Read: class 05
 
 To access the list of files, type 'dir' which brings up the diretory.
