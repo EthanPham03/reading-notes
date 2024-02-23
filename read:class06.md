@@ -9,4 +9,10 @@ A red cross sign on the white shield in the bottom right will notify of any issu
 
 Firewall & Network shows local networks and firewall settings.
 
-When it comes to securing my belongings, it's not very complex. Simply using passwords I would remember for my accounts, and keeping my personsal items on me. 
+When it comes to securing my belongings, it's not very complex. Simply using passwords I would remember for my accounts, and keeping my personsal items on me.
+
+
+Windows Defender Security Center in Windows 10, https://www.thewindowsclub.com/windows-defender-security-center 
+
+## Things I want to know more about:
+n/a 
