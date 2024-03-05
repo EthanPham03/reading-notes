@@ -13,6 +13,7 @@ Cloud virtualization can empower underserved communities since the cloud can all
 
 
 Importance of Virtualization in the Amazon EC2 Cloud, https://www.joe0.com/2017/06/11/importance-of-virtualization-in-the-amazon-ec2-cloud/ 
+
 Storage options for your Amazon EC2 instances, https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Storage.html 
 
 
