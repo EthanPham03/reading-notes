@@ -17,3 +17,6 @@ Telnet allows remote connection to a device and the ability to view the informat
 
 
 Common Ports - N10-008 CompTIA Network+ : 1.5, https://www.professormesser.com/network-plus/n10-008/n10-008-video/common-ports-n10-008/ 
+
+## Things I want to know more about:
+n/a
